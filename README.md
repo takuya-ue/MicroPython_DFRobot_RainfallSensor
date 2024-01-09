@@ -1,5 +1,7 @@
 # DFRobot Rainfall Sensor Library for Raspberry Pi Pico (MicroPython)
 
+日本語版は[こちら](README-ja.md)
+
 ## overview
 A MicroPython version of the Python library for DFRobot's Rainfall Sensor. Operation has been confirmed on Raspberry Pi Pico. It only supports I2C.
 
